@@ -13,6 +13,9 @@
 
 🟢Set Password on Back Door
 
+⚠️ Note:- It's Only work on (Run as Administrator) 
+If you don't run as Administrator not work you hidden users or backdoor
+
 
 # Download
 https://t.me/FreeRDPvpsBIN/788
