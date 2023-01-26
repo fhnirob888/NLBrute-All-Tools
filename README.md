@@ -1,24 +1,14 @@
-🔥 RDP/VPS Tools by FHNirob 🔥
+# NLBrute-All-Tools
 
-## Features
-🟢Change Password
+## -NLBrute Private version
+## -masscan
+## -password making tools
+## -NLA checker
+## -Passwords list, 
+## -more
 
-🟢Create Hidden User
+## zip file password here https://github.com/fhnirob888/RDP-VPS-Tools.git
 
-🟢Set Password Default
+# Teligram Channel https://t.me/FreeRDPvpsBIN/
 
-🟢Create Back Door
-
-🟢Delete Back Door
-
-🟢Set Password on Back Door
-
-⚠️ Note:- It's Only work on (Run as Administrator) 
-If you don't run as Administrator not work you hidden users or backdoor
-
-
-# Download
-https://t.me/FreeRDPvpsBIN/788
-
-# Screenshot
-![App Screenshot](Capture.PNG)
+# Teligram ID  https://t.me/RdpVpsSellar
