@@ -7,7 +7,7 @@
 ## -Passwords list, 
 ## -more
 
-## zip file password here https://github.com/fhnirob888/RDP-VPS-Tools.git
+## zip file password in RDP/VPS Tools   https://github.com/fhnirob888/RDP-VPS-Tools.git
 
 # Teligram Channel https://t.me/FreeRDPvpsBIN/
 
